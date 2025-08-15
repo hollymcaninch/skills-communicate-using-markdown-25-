@@ -2,3 +2,7 @@
 ## 2nd Paragraph
 ### 3rd Paragraph
 ###### Last Paragraph
+
+! [Image of Yaktocat]
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
